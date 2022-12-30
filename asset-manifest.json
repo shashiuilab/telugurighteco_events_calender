@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/telugurighteco_events_calender/static/css/main.55131a82.css",
+    "main.js": "/telugurighteco_events_calender/static/js/main.194a5dbb.js",
+    "static/js/787.a83d8197.chunk.js": "/telugurighteco_events_calender/static/js/787.a83d8197.chunk.js",
+    "static/media/old_paper.jpg": "/telugurighteco_events_calender/static/media/old_paper.eee61ed3c431e4547913.jpg",
+    "static/media/jan.png": "/telugurighteco_events_calender/static/media/jan.6db4c5ecc02a653ecbbe.png",
+    "index.html": "/telugurighteco_events_calender/index.html",
+    "main.55131a82.css.map": "/telugurighteco_events_calender/static/css/main.55131a82.css.map",
+    "main.194a5dbb.js.map": "/telugurighteco_events_calender/static/js/main.194a5dbb.js.map",
+    "787.a83d8197.chunk.js.map": "/telugurighteco_events_calender/static/js/787.a83d8197.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55131a82.css",
+    "static/js/main.194a5dbb.js"
+  ]
+}
