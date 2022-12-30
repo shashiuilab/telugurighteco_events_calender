@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.main-container .timeline-item-title {
+  color: white;
+}
+.main-container .navbar-brand {
+  color: white;
+  font-weight: bolder;
+}
+.bg-orange {
+  background-color: #dc8212!important;
+  min-height: 5rem;
+  display: flex;
+  align-items: center;
+}
+.main-container {
+  background-image: url("./img/old_paper.jpg");
+}
+.main-container .card {
+  display: flex !important;
+  background-color: #dc8212;
+}
+.main-container .card img {
+  width: 100px !important;
+  height: 100px !important;
+  align-self: center !important;
+}
